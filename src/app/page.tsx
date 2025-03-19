@@ -3,7 +3,7 @@ import Angamos from "./icons/Angamos";
 
 export default function Home() {
   return (
-    <main className="w-full min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]">
+    <main className="w-full min-h-screen p-8 pb-20 font-sans">
       <nav className="w-full h-20 flex justify-start items-center gap-2">
         <Angamos className="w-8"/>
         <h1 className="font-bold">
